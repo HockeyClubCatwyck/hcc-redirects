@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/kledingplan",
-      "redirect": "https://apps.powerapps.com/play/e/f5492a4f-b957-eff3-90de-e50d03099441/a/aa4b1d24-89e9-4ed4-a031-6b9618719a35?tenantId=efa4be11-e0ce-4b34-9d61-9b165059e5eb&hint=01032fdb-45eb-4dfc-ae28-4a24791f2a49&sourcetime=1756215210031",\
+      "redirect": "https://apps.powerapps.com/play/e/f5492a4f-b957-eff3-90de-e50d03099441/a/aa4b1d24-89e9-4ed4-a031-6b9618719a35?tenantId=efa4be11-e0ce-4b34-9d61-9b165059e5eb&hint=01032fdb-45eb-4dfc-ae28-4a24791f2a49&sourcetime=1756215210031",
       "statusCode": 301
     }
   ]
